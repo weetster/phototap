@@ -2,7 +2,8 @@
 
 This is a script to download an entire Photobucket album, since it's not possible through the website. It works for me running Python 3.9 on my MacBook as of 2023-02-09.
 
-**I will not be maintaining this script.*** It was written as a one-off solution before closing my Photobucket account. The script will likely get stale over time, but maybe it will help someone.
+**I will not be maintaining this script.** It was written as a one-off solution before closing my Photobucket account. The script will likely get stale over time, but maybe it will help someone.
+
 Install the requirements:
 
 `pip install requests`
